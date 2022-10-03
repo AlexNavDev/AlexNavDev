@@ -4,8 +4,7 @@
 const AlexNavDev = {
     tecnologias: ["CSS", "HTML", "JavaScript", "Sass"],
     frondEnd: ["React JS", "Styled-Components"],
-    herramientas: ["Git", "Github", "Visual Studio Code"],
-    ocupacionActual: ["Abierto a oportunidades laborales"]
+    herramientas: ["Git", "Github", "Visual Studio Code"]
 };
 ```
 <p align="center">
