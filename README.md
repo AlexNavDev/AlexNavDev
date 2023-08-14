@@ -2,7 +2,7 @@
 
 ```JavaScript
 const AlexNavDev = {
-    code: [TypeScript, Javascript, HTML, CSS],
+    code: [HTML, CSS, Javascript, TypeScript],
     technologies: {
       frontEnd: {
          js: ["React JS"],
